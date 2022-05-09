@@ -16,5 +16,13 @@
     "express": "^4.18.1",
     "knex": "^2.0.0",
     "pg": "^8.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdimundoJr/Github.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EdimundoJr/Github/issues"
+  },
+  "homepage": "https://github.com/EdimundoJr/Github#readme"
 }
